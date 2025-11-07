@@ -60,4 +60,3 @@ Logs available via docker-compose logs
 
 Automatic restart on errors
 
-📄 License
